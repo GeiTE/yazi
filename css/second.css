@@ -1,0 +1,63 @@
+#body_second{
+	height: 800px;
+	width: 100%;
+}
+#body_second_content{
+	height: 900px;
+	width: 100%;
+}
+.body_second_content{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 130px;
+	margin-top: 100px;
+}
+.body_second_content_img{
+	overflow: hidden;
+	height: 300px;
+	width: 100%;
+}
+.body_second_content_img img{
+	height: 100%;
+	width: 100%;
+}
+.body_second_content_title{
+	height: 40px;
+	width: 100%;
+	margin-top: 20px;
+}
+.body_second_content_text{
+	height: 100px;
+	width: 100%;
+	margin: 20px 0px 20px 0px;
+}
+.body_second_content_button{
+	height: 120px;
+	width: 60px;
+	float: left;
+	margin-top: 400px;
+	margin-left: 50px;
+}
+.second_button{
+	width: 100%;
+	height: 50%;
+}
+.second_button a div{
+	width: 50px;
+	height: 60px;
+}
+#second_button_fisrt_image{
+	width: 100%;
+}
+#second_button_fisrt_image:hover{
+	transform: translateX(5px);
+	transition: all 0.4s;
+}
+#second_button_second_image{
+	width: 100%;
+}
+#second_button_second_image:hover{
+	transform: translateX(-5px);
+	transition: all 0.4s;
+}

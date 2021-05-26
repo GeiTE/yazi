@@ -1,0 +1,132 @@
+#top_bottom{
+	height: 950px;
+	width: 100%;
+}
+
+#top_bottom_navihation{
+	height: 100px;
+	width: 100%;
+}
+#top_bottom_navihation_logo{
+	height: 60px;
+	width: 800px;
+	float: left;
+}
+#top_bottom_navihation_logo img{
+	width: 200px;
+	margin: 0px 15px 15px 300px;
+}
+#top_bottom_navihation_logo img:hover{
+	width: 205px;
+}
+#top_bottom_navihation_blank{
+	height: 100px;
+	width: auto;
+	float: left;
+}
+.top_button_navihation_button{
+	height: 70px;
+	width: 40px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+	font-size: 13px;
+	border-right: 1px solid rgba(0,0,0,0.1);
+	text-align: center;
+}
+.top_button_navihation_button:hover{
+	background-color: crimson;
+	color: white;
+	font-size: 14px;
+	transition: all 0.5s;
+}
+#top_bottom_slideshow{
+	height: 850px;
+	width: 100%;
+	/*border: 1px solid lawngreen;*/
+	overflow: hidden;
+}
+#top_bottom_slideshow img{
+	width: 100%;
+}
+#top_front{
+	height: 160px;
+	width: 1000px;
+	position: absolute;
+	top: 850px;
+	left: 270px;
+	/*border: 1px solid red;*/
+	background-color: white;
+	box-shadow: 1px 1px 20px #888888;
+}
+.top_front_blank{
+	height: 160px;
+	width: 160px;
+	margin-left: 31px;
+	float: left;
+}
+.top_front_ico{
+	height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+}
+.top_front_ico:hover{
+	transform: translate(0,-5px);
+	transition: all 0.5s;
+}
+.top_front_ico img{
+	height: 55px;
+	padding: 15px 15px 15px 55px;
+}
+.top_front_blod{
+	height: 40px;
+	width: 160px;
+	/*border: 1px solid red;*/
+	font-size: 20px;
+	font-weight: 900;
+	text-align: center;
+}
+.top_front_mianbody{
+	height: 30px;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	color: gray;
+}
+#body_first{
+	height: 600px;
+	width: 100%;
+	margin-top: 200px;
+}
+#body_first_content{
+	height: 600px;
+	width: 100%;
+}
+.body_first_content{
+	height: 175px;
+	width: 260px;
+	margin-left: 95px;
+	float: left;
+	margin-top: 100px;
+	/*border: 1px solid black;*/
+}
+.body_first_content_image{
+	overflow: hidden;
+	height: 180px;
+	width: 260px;
+}
+.body_first_content_image img{
+	width: 100%;
+}
+.body_first_content_font{
+	height: 80px;
+	width: 260px;
+	margin-top: 25px;
+	font-size: 15px;
+	text-align: center;
+}
+.body_first_content_more{
+	height: 80px;
+	width: 460px;
+	margin-top: 25px;
+}

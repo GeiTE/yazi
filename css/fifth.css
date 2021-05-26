@@ -1,0 +1,43 @@
+#body_fifth{
+	height: 600px;
+	width: 100%;
+}
+#body_fifth hr{
+	position: relative;
+	top: 100px;
+}
+#body_fifth_content{
+	height: 500px;
+	width: 100%;
+	margin-top: 100px;
+}
+#body_fifth_content>div{
+	height: 300px;
+	width: 1350px;
+	margin-left: 225px;	
+}
+#body_fifth_content div>div{
+	height: 250px;
+	width: 250px;
+	margin-left: 35px;
+	padding-left: 50px;
+	padding-top: 50px;
+	float: left;
+	border-left: 1px solid rgba(0,0,0,0.5);
+}
+#body_fifth_content div div h3{
+	margin: 50px 15px 15px 15px;
+	font-size: 20px;
+}
+#body_fifth_content div div small{
+	margin: 50px 15px 15px 15px;
+	font-size: 16px;
+	color: grey;
+}
+#body_fifth_content div div p{
+	margin: 15px 15px 15px 15px;
+	font-size: 18px;
+	font-weight: 900;
+	color: gray;
+}
+

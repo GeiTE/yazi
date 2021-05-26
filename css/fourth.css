@@ -1,0 +1,75 @@
+#body_fourth{
+	height: 700px;
+	width: 100%;
+	margin-top: 200px;
+}
+#body_fourth_content_one{
+	height: 300px;
+	width: 250px;
+	margin-left: 150px;
+	margin-top: 100px;
+	margin-right: 550px;
+	float: left;
+	background-image: url('../img/effect picture/Cool_dress/Cool_dress (3).jpg');
+	background-size: cover;
+	
+}
+#body_fourth_content_one div{
+	height: 250px;
+	width: 600px;
+	margin-top: 25px;
+	margin-left: 200px;
+	background-color: rgba(0,0,0,0.2);
+}
+#body_fourth_content_one div h3{
+	padding: 35px 15px 0px 50px;
+}
+#body_fourth_content_one div p{
+	margin: 15px 15px 15px 50px;
+	color: rgba(0,0,0,0.6);
+}
+#body_fourth_content_two{
+	height: 450px;
+	width: 300px;
+	margin-left: 100px;
+	float: left;
+}
+#body_fourth_content_two>div{
+	height: 100px;
+	width: 100%;
+	margin-top: 50px;
+	box-shadow: 1px 1px 5px #808080;
+}
+#body_fourth_content_two>div:hover{
+	background-color: crimson;
+	transition: all 0.5s;
+	color: white;
+}
+#body_fourth_content_two>div>div{
+	transform: translate(20px,25px);
+	clear: both;
+}
+#body_fourth_content_two div div div{
+	overflow: hidden;
+	height: 70px;
+	width: 70px;
+	position: absolute;
+	top: -10px;
+}
+#body_fourth_content_two div div div img{
+	width: 100%;
+}
+#body_fourth_content_two div h5{
+	height: 20px;
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+#body_fourth_content_two div p{
+	height: 15px;
+	width: 100px;
+	position: absolute;
+	top: 20px;
+	left: 100px;
+}

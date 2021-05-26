@@ -1,0 +1,126 @@
+#body_third{
+	height: 1500px;
+	width: 100%;	
+}
+#body_third hr{
+	position: relative;
+	top: 100px;
+}
+#body_third_content{
+	height: 500px;
+	width: 100%;
+	/*border:1px solid red;*/
+	margin-top: 100px;
+	background-color: rgba(0,0,0,0.01);
+}
+#body_third_content_one{
+	overflow: hidden;
+	height: 100%;
+	width: 40%;
+	float: left;
+	background-image: url('../img/effect picture/Cool_dress/Cool_dress (21).jpg');
+	background-size: 400px;
+	background-repeat:no-repeat;
+	background-position: right top;
+	margin-left: 20px;
+	border-right: 1px solid #E0E0E0;
+}
+#body_third_content_one div{
+	height: auto;
+	width: 400px;
+	position:  relative;
+	top: 300px;
+	left: 50px;
+	float: none;
+} 
+#body_third_content_two{
+	height: 216px;
+	width: 850px;
+	float: left;
+	background-image: url('../img/effect picture/Cool_dress/Cool_dress (10).jpg');
+	background-size:  cover;
+	margin-bottom: 50px;
+	background-size: 250px;
+	background-repeat:no-repeat;
+	background-position: right top;
+	border-right: 1px solid #E0E0E0;
+}
+#body_third_content_two div{
+	height: auto;
+	width: 400px;
+	position: relative;
+	top: 50px;
+	left: 15px;
+} 
+#body_third_content_three{
+	height: 232px;
+	width: 49%;
+	float: left;
+	background-image: url('../img/effect picture/Cool_dress/Cool_dress (8).jpg');
+	background-size:  cover;
+	background-size: 300px;
+	background-repeat:no-repeat;
+	background-position: left top;
+	border-top: 1px solid #E0E0E0;
+	border-bottom: 1px solid #E0E0E0;
+}
+#body_third_content_three div{
+	height: auto;
+	width: 350px;
+	position: relative;
+	top: 50px;
+	left: 550px;
+}
+#body_third_content_second{
+	height: 800px;
+	width: 100%;
+	/*border:1px solid red;*/
+	margin-top: 100px;
+}
+#body_third_content_second_one{
+	height: 100%;
+	width: 49%;
+	background-color: crimson;
+	float: left;
+	margin-left: 20px;
+}
+#body_third_content_second_two{
+	height: 100%;
+	width: 49%;
+	background-color: #E0E0E0;
+	float: left;
+}
+#body_third_content_second_float{
+	height: 300px;
+	width: 800px;
+	position: relative;
+	top: 250px;
+	left: 465px;
+	background-color: white;
+}
+#body_third_content_second_float_one{
+	height: 300px;
+	width: 300px;
+	background-image: url('../img/effect picture/overcoat/overcoat (8).jpg');
+	background-size: 250px;
+	background-position: 35px 0;
+}
+#body_third_content_second_float_two{
+	height: 300px;
+    width: 350px;
+    position: absolute;
+    top: 50px;
+    left: 315px;
+}
+#body_third_content_second_float_two h3{
+	font-size: 20px;
+	font-weight: 900;
+	margin: 15px;
+}
+#body_third_content_second_float_two p{
+	font-size: 15px;
+	font-weight: 900;
+	margin: 30px 15px 15px 15px;
+	color: rgba(0,0,0,0.5);
+}
+
